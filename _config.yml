@@ -1,0 +1,13 @@
+# Site settings
+title: RoboTech
+description: Приступаем к сбору информации для создания своих собственных злобных роботов - анархистов
+keywords: RoboTech, Робототехника, Схемотехника, Программирование, Машинное обучение, Глубокое обучение, Компьютерное Зрение
+
+baseurl: '' # the subpath of your site, e.g. /blog/
+url: 'https://robotech.info' # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
+
+plugins:
+  - jekyll-sitemap
