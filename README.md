@@ -1,27 +1,23 @@
-# Исходники сайта [matematika.org](https://matematika.org)
-
+# Исходники сайта [robotech.info](https://robotech.info)
 
 <br/>
 
-### Запустить matematika.org для разработки
+### Запустить robotech.info для разработки
 
     $ docker-compose up
 
-
 <br/>
 
-### Запустить matematika.org локально как сервис
+### Запустить robotech.info локально как сервис
 
 <a href="https://sysadm.ru/linux/servers/containers/docker/install/">Docker</a> должен быть установлен.
 
-    # cp matematika.org.service /etc/systemd/system/matematika.org.service
+    # cp robotech.info.service /etc/systemd/system/robotech.info.service
 
 <br/>
 
-    # systemctl enable matematika.org.service
-    # systemctl start  matematika.org.service
-    # systemctl status matematika.org.service
-
+    # systemctl enable robotech.info.service
+    # systemctl start  robotech.info.service
+    # systemctl status robotech.info.service
 
 http://localhost:4018
-

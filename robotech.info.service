@@ -1,0 +1,21 @@
+[Unit]
+Description=robotech.info
+
+Requires=docker.service
+After=docker.service
+
+[Service]
+
+Restart=always
+TimeoutStartSec=0
+ExecStartPre=-/usr/bin/docker kill robotech.info
+ExecStartPre=-/usr/bin/docker rm robotech.info
+ExecStartPre=-/usr/bin/docker pull marley/robotech.info:latest
+ExecStart=/bin/sh -c '/usr/bin/docker run --name robotech.info   \
+ -p 4019:80                        \
+ marley/robotech.info'
+ExecStop=-/usr/bin/docker kill robotech.info
+ExecStop=-/usr/bin/docker rm robotech.info
+
+[Install]
+WantedBy=multi-user.target
