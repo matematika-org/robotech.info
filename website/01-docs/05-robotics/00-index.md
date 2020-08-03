@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Robotics
-description: Robotics
-keywords: Robotics
-permalink: /robotics/
+title: Robotics courses
+description: Robotics courses
+keywords: Robotics courses
+permalink: /courses/
 ---
 
-# Robotics
+# Robotics courses
 
 <br/>
 
