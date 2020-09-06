@@ -3,7 +3,7 @@ layout: page
 title: Robotics courses
 description: Robotics courses
 keywords: Robotics courses
-permalink: /courses/
+permalink: /videos/
 ---
 
 # Robotics courses
