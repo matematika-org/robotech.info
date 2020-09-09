@@ -43,3 +43,15 @@ permalink: /
 <div align="center">
     <iframe width="853" height="480" src="https://www.youtube.com/embed/p9LGYVbaQco" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
+<br/>
+
+### Mechanical Dog. Нам такое нужно?
+
+![Mechanical Dog](/img/MechanicalDog.jpg 'Mechanical Dog'){: .center-image }
+
+https://levelup.digital/portfolio/mechanical-dog/
+
+<br/>
+
+Это вообще что такое? Позволит изучение такого материала продивинутся в изучении создания собственных роботов?
