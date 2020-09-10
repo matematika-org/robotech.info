@@ -4,7 +4,7 @@ title: RoboTech
 permalink: /
 ---
 
-# RoboTech
+# Привет!
 
 <br/>
 
@@ -63,3 +63,8 @@ https://levelup.digital/portfolio/mechanical-dog/
 ![Drone Programming with Python](/img/DroneProgramming.jpg 'Drone Programming with Python'){: .center-image }
 
 https://www.udemy.com/course/drone-programming-with-python-face-recognition-tracking/
+
+<br/>
+<br/>
+
+Перед изучением, следует ознакомиться с мультфильмом "Следующее поколение (2018)", фильмом "Я, робот". Возможно, пересмотреть перый фильм про терминатора.

@@ -15,3 +15,7 @@ permalink: /videos/
 <br/>
 
 ### Become a Robotics Engineer. Acquire hands-on experience with projects fusing artificial intelligence and hardware.
+
+<br/>
+
+![Robotics Software Engineer](/img/robotics-software-engineer-nanodegree.jpg 'Robotics Software Engineer'){: .center-image }

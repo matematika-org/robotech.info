@@ -27,11 +27,3 @@ permalink: /purposes/
 Хммммм...
 
 <a href="/img/robo-prototype.gif">Прототип ^.0.0.1-alpha</a>
-
-<br/>
-
-![Robotics Software Engineer](/img/robotics-software-engineer-nanodegree.jpg 'Robotics Software Engineer'){: .center-image }
-
-<br/>
-
-Перед изучением, следует ознакомиться с мультфильмом "Следующее поколение (2018)", фильмом "Я, робот". Возможно, пересмотреть перый фильм про терминатора.
