@@ -56,3 +56,10 @@ https://levelup.digital/portfolio/mechanical-dog/
 
 Это вообще что такое? Позволит изучение такого материала продивинутся в создании прототипов собственных роботов?
 
+<br/>
+
+### Drone Programming with Python - Face Recognition & Tracking
+
+![Drone Programming with Python](/img/DroneProgramming.jpg 'Drone Programming with Python'){: .center-image }
+
+https://www.udemy.com/course/drone-programming-with-python-face-recognition-tracking/
