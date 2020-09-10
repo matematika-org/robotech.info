@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Robotics courses
-description: Robotics courses
-keywords: Robotics courses
+title: Видеокурсы по робототехнике
+description: Видеокурсы по робототехнике
+keywords: Видеокурсы по робототехнике
 permalink: /videos/
 ---
 
-# Robotics courses
+# Видеокурсы по робототехнике
 
 <br/>
 
