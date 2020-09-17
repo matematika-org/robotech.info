@@ -16,6 +16,6 @@ permalink: /books/
 
 https://github.com/PacktPublishing/ROS-Robotics-Projects-SecondEdition
 
-https://www.youtube.com/playlist?list=PLeLcvrwLe185GGwU4NbIvBew53yFPdCg6
+<a href="https://www.youtube.com/playlist?list=PLeLcvrwLe185GGwU4NbIvBew53yFPdCg6">Ролики на youtube</a>
 
-Не так уж и много, кто изучает!
+Не так уж и много тех, кто изучает материал!
