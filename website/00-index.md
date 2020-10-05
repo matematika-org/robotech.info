@@ -71,6 +71,12 @@ https://levelup.digital/portfolio/mechanical-dog/
 https://www.udemy.com/course/drone-programming-with-python-face-recognition-tracking/
 
 <br/>
+
+### Data Fest 2020 ML trainings Alexander Donchuk (Самодвигающиеся машинки)
+
+https://www.youtube.com/watch?v=tyulKxm-xrU
+
+<br/>
 <br/>
 
 Перед изучением, следует ознакомиться с мультфильмом "Следующее поколение (2018)", фильмом "Я, робот". Возможно, пересмотреть перый фильм про терминатора.

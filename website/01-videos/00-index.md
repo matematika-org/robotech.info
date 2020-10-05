@@ -10,6 +10,12 @@ permalink: /videos/
 
 <br/>
 
+### Intro Robotics Developer Course - Using ROS in Python
+
+https://www.udemy.com/course/intro-robotics-developer-course-using-ros-in-python/
+
+<br/>
+
 ### Robotic Process Automation: RPA Fundamentals and Build a Robot
 
 <br/>
