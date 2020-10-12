@@ -77,6 +77,14 @@ https://www.udemy.com/course/drone-programming-with-python-face-recognition-trac
 https://www.youtube.com/watch?v=tyulKxm-xrU
 
 <br/>
+
+### Федю забанили за правду и за свое личное мнение
+
+<br/>
+
+![Федю забанили за правду](/img/redor-01.jpeg 'Федю забанили за правду'){: .center-image }
+
+<br/>
 <br/>
 
 Перед изучением, следует ознакомиться с мультфильмом "Следующее поколение (2018)", фильмом "Я, робот". Возможно, пересмотреть перый фильм про терминатора.
