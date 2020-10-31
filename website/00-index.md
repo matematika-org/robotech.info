@@ -78,6 +78,12 @@ https://www.youtube.com/watch?v=tyulKxm-xrU
 
 <br/>
 
+### Антон Печенко: Обучи своего DIY робота с помощью RL
+
+https://www.youtube.com/watch?v=sl7NIjTDaEQ
+
+<br/>
+
 ### Федю забанили за правду и за свое личное мнение
 
 <br/>
