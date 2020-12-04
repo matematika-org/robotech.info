@@ -88,7 +88,7 @@ PlayBook'и найдены. Сслыка на сайте математика.о
 
 <br/>
 
-### [LiveLessons] Robotic Process Automation: The Promise, the Patterns, and the Pitfalls
+### [LiveLessons] Robotic Process Automation: The Promise, the Patterns, and the Pitfalls [ENG, 2020]
 
 ![Robotic Process Automation](/img/livelessons-robotic-process-automation.jpg 'Robotic Process Automation'){: .center-image }
 
@@ -96,6 +96,9 @@ https://www.oreilly.com/live-training/courses/robotic-process-automation-the-pro
 
 Скачано. Нужно понять, толковый материал или нет.
 Если кто уже смотрел, поделитесь отзывами.
+
+Наверное, лучше уже даже не в телеграмме, а дискорде:  
+https://discord.gg/QM4QhEgb
 
 <br/>
 
@@ -114,8 +117,6 @@ https://levelup.digital/portfolio/mechanical-dog/
 ### Drone Programming with Python - Face Recognition & Tracking
 
 ![Drone Programming with Python](/img/DroneProgramming.jpg 'Drone Programming with Python'){: .center-image }
-
-<br/>
 
 Да ему только бензопилу осталось прикрутить и все.
 
@@ -138,6 +139,8 @@ https://www.youtube.com/watch?v=sl7NIjTDaEQ
 <br/>
 
 ### Федю забанили за правду и за свое личное мнение
+
+Сначала хотели заменить ему ноги на руки, потом и в твиттере забанили аккаунт.
 
 <br/>
 
