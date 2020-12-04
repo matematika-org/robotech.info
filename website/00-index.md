@@ -14,8 +14,6 @@ Rs school 18 января стартует курс по ml. Срок обуче
 
 **Нужно зарегаться до 18 января 2021**
 
-Для регистрации, верояно, нужен будет гитхаб. (Кто не знает что это такое, разберитесь заранее).
-
 Сотрудники EPAM (предположу, что из Белоруссии / Беларуси) предоставят платформу для обучения и поделятся своими знаниями со всеми желающими. Лучшим еще и работу предложат.
 
 https://rs.school/machine-learning/
@@ -44,7 +42,7 @@ https://rs.school/machine-learning/
 
 Думаю, не лишним будет до начала пересмотреть: https://www.youtube.com/watch?v=5Yl6_2d0CN0
 
-Если кто будет набирать playbook расшарьте.
+PlayBook'и найдены. Сслыка на сайте математика.орг
 
 <br/>
 
@@ -87,6 +85,17 @@ https://rs.school/machine-learning/
 <div align="center">
     <iframe width="853" height="480" src="https://www.youtube.com/embed/p9LGYVbaQco" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
+<br/>
+
+### [LiveLessons] Robotic Process Automation: The Promise, the Patterns, and the Pitfalls
+
+![Robotic Process Automation](/img/livelessons-robotic-process-automation.jpg 'Robotic Process Automation'){: .center-image }
+
+https://www.oreilly.com/live-training/courses/robotic-process-automation-the-promise-the-patterns-and-the-pitfalls/0636920354864/
+
+Скачано. Нужно понять, толковый материал или нет.
+Если кто уже смотрел, поделитесь отзывами.
 
 <br/>
 
