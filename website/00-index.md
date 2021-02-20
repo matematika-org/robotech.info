@@ -147,6 +147,16 @@ https://www.youtube.com/watch?v=sl7NIjTDaEQ
 ![Федю забанили за правду](/img/redor-01.jpeg 'Федю забанили за правду'){: .center-image }
 
 <br/>
+
+### Reinforcement Learning: AI Flight with Unity ML-Agents
+
+https://www.udemy.com/course/ai-flight/
+
+<br/>
+
+### [OTUS] Разработчик программных роботов (RPA) на базе UiPath и PIX (Часть 1-3) [RUS, 2020]
+
+<br/>
 <br/>
 
 Перед изучением, следует ознакомиться с мультфильмом "Следующее поколение (2018)", фильмом "Я, робот". Возможно, пересмотреть перый фильм про терминатора.
